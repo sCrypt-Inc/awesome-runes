@@ -10,6 +10,7 @@
   - [Marketplaces](#marketplaces)
   - [Explorers](#explorers)
   - [Developer Tools](#developer-tools)
+  - [Analytics](#analytics)
   - [Ecosystem](#ecosystem)
   - [Contributing](#contributing)
 
@@ -69,6 +70,11 @@
 
 ## Developer Tools
 - [RuneLib](https://github.com/sCrypt-Inc/runelib)
+
+
+## Analytics
+* [BtcTool](https://www.btctool.pro/hot-mint)
+* [RuneToshi](https://runetoshi.com/analytics)
 
 
 ## Ecosystem
